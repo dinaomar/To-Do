@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "482989597079",
+    "firebase_url": "https://true-velocity-119711.firebaseio.com",
+    "project_id": "true-velocity-119711",
+    "storage_bucket": "true-velocity-119711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482989597079:android:0cddc461b836ca23",
+        "android_client_info": {
+          "package_name": "elcg.dina.com.to_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482989597079-5c4cu42e1k3s49eji1mjnskd384g8las.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "elcg.dina.com.to_do",
+            "certificate_hash": "20CDBDAC16290D8E3E0EA716A2F80FE5ED4682CC"
+          }
+        },
+        {
+          "client_id": "482989597079-56s2b1ud81ifb8r41jl7c12pss49ufe5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPdwopnXzasCn6VQaOS2PZSpq2d_-IyeA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482989597079-56s2b1ud81ifb8r41jl7c12pss49ufe5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
